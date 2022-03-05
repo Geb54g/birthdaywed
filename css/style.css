@@ -8,6 +8,7 @@ nav {
   justify-content: space-around;
   height: 40px;
   padding-top: 0.5rem;
+  background-color: aqua;
 }
 a {
   text-decoration: none;
