@@ -49,10 +49,16 @@ p {
   width: 20%;
   margin: 0.3rem;
   border-radius: 1em;
-  box-shadow: 5px 5px 5px;
+  box-shadow: 5px 5px 5px rgb(169, 111, 184);
 }
 .image-one {
   display: flex;
   justify-content: center;
   margin-top: -5rem;
+}
+.form {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 1.5rem;
+  font-weight: 500;
 }
