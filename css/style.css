@@ -22,7 +22,37 @@ a {
 span {
   color: red;
 }
-img {
+.one {
   background-image: url(../images/pexels-ellis-mbeku-633661.jpg);
   width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.description {
+  color: white;
+  display: flex;
+  justify-content: center;
+  justify-self: baseline;
+  padding-top: 4rem;
+}
+.line {
+  border: solid red;
+}
+p {
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 1.5rem;
+}
+#image {
+  width: 20%;
+  margin: 0.3rem;
+  border-radius: 1em;
+  box-shadow: 5px 5px 5px;
+}
+.image-one {
+  display: flex;
+  justify-content: center;
+  margin-top: -5rem;
 }
