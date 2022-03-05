@@ -8,14 +8,23 @@ nav {
   justify-content: space-around;
   height: 40px;
   padding-top: 0.5rem;
-  background-color: aqua;
+  background-color: black;
 }
 a {
   text-decoration: none;
+  font-weight: 800;
+  color: white;
 }
 img {
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-size: contain;
+}
+.birth {
+  font-weight: 800;
+  color: white;
+}
+span {
+  color: red;
 }
