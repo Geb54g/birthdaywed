@@ -1,0 +1,14 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  height: 40px;
+  padding-top: 0.5rem;
+}
+a {
+  text-decoration: none;
+}
