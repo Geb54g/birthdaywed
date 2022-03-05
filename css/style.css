@@ -15,16 +15,14 @@ a {
   font-weight: 800;
   color: white;
 }
-img {
-  width: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
 .birth {
   font-weight: 800;
   color: white;
 }
 span {
   color: red;
+}
+img {
+  background-image: url(../images/pexels-ellis-mbeku-633661.jpg);
+  width: 100%;
 }
