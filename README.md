@@ -40,6 +40,8 @@ SSH:'git clone git@github.com:Geb54g/birthdaywed.git/
 
 ## Live Site
 
+https://geb54g.github.io/birthdaywed/
+
 ## Licence
 
 [MIT LICENCE]
