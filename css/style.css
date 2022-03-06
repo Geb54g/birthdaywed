@@ -98,6 +98,13 @@ p {
   border-radius: 3px;
   box-shadow: 5px 5px 5px rgb(169, 111, 184);
 }
+.year {
+  width: 20%;
+  height: 1.5rem;
+  border-radius: 3px;
+  box-shadow: 5px 5px 5px rgb(169, 111, 184);
+}
+
 .gender {
   padding-top: 1rem;
   font-size: 1rem;
