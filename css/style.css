@@ -51,7 +51,7 @@ p {
   padding-top: 1rem;
   font-size: 1.5rem;
 }
-#image {
+.image {
   width: 20%;
   margin: 0.3rem;
   border-radius: 1em;
